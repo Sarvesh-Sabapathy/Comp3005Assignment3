@@ -6,10 +6,7 @@ This is a simple Java application for managing student records in a PostgreSQL d
 - [Introduction](#introduction)
 - [Features](#features)
 - [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Setup](#setup)
 
 ## Introduction
 
